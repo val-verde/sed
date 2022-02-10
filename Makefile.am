@@ -15,7 +15,7 @@
 
 PACKAGE = sed
 
-SUBDIRS = po . gnulib-tests
+SUBDIRS = po .
 
 
 # This applies to all parts: gnulib, sed, testsuites
